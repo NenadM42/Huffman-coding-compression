@@ -1,0 +1,33 @@
+5 simbola.
+Verovatnoce:
+0.2 0.2 0.2 0.2 0.2 
+Prosirenje broj 1:
+Entropija: 2.32193 | Srednja duzina kodne reci: 2.4 | Efikasnost :96.747%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:00
+-----------------------------------
+Prosirenje broj 2:
+Entropija: 4.64386 | Srednja duzina kodne reci: 4.72 | Efikasnost :98.3868%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:00
+-----------------------------------
+Prosirenje broj 3:
+Entropija: 6.96578 | Srednja duzina kodne reci: 6.976 | Efikasnost :99.8536%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.003
+-----------------------------------
+Prosirenje broj 4:
+Entropija: 9.28771 | Srednja duzina kodne reci: 9.3616 | Efikasnost :99.2107%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.012
+-----------------------------------
+Prosirenje broj 5:
+Entropija: 11.6096 | Srednja duzina kodne reci: 11.6893 | Efikasnost :99.3187%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.062
+-----------------------------------

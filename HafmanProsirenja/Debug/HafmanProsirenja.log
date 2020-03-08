@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\nenad\source\repos\hafmanprosirenja\hafmanprosirenja\source.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nenad\source\repos\hafmanprosirenja\hafmanprosirenja\source.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HafmanProsirenja.vcxproj -> C:\Users\nenad\source\repos\HafmanProsirenja\Debug\HafmanProsirenja.exe

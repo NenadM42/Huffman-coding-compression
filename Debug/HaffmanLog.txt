@@ -1,0 +1,45 @@
+4 simbola.
+Verovatnoce:
+0.25 0.25 0.25 0.25 
+Prosirenje broj 1:
+Entropija: 2 | Srednja duzina kodne reci: 2 | Efikasnost :100%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:00
+-----------------------------------
+Prosirenje broj 2:
+Entropija: 4 | Srednja duzina kodne reci: 4 | Efikasnost :100%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:00
+-----------------------------------
+Prosirenje broj 3:
+Entropija: 6 | Srednja duzina kodne reci: 6 | Efikasnost :100%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.001
+-----------------------------------
+Prosirenje broj 4:
+Entropija: 8 | Srednja duzina kodne reci: 8 | Efikasnost :100%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.005
+-----------------------------------
+Prosirenje broj 5:
+Entropija: 10 | Srednja duzina kodne reci: 10 | Efikasnost :100%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.022
+-----------------------------------
+Prosirenje broj 6:
+Entropija: 12 | Srednja duzina kodne reci: 12 | Efikasnost :100%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.082
+-----------------------------------
+Prosirenje broj 7:
+Entropija: 14 | Srednja duzina kodne reci: 14 | Efikasnost :100%
+Vreme da se napravi hafmenovo stablo:
+HH:MM:SS
+00:00:0.337
+-----------------------------------
